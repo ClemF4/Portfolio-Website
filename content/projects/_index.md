@@ -1,7 +1,4 @@
 ---
 title: All My Projects!
+groupByYear: false
 ---
-{{< article link="/projects/car/" >}}
-{{< article link="/projects/radio/" >}}
-{{< article link="/projects/vr/" >}}
-{{< article link="/projects/website/" >}}
