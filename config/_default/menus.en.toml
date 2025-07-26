@@ -26,7 +26,7 @@
   weight = 2
 
 [[main]]
-  name = "Contact Details"
+  name = "Contact Me"
 #  parent = "Parent"
   pageRef = "contacts"
   weight = 3  
