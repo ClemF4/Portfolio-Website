@@ -1,0 +1,32 @@
+# Hugo generated files
+public/
+resources/_gen/
+.hugo_build.lock
+
+# Doxygen generated files (from your untracked list)
+html/
+latex/
+
+# Common build/config files you might not want to commit
+# (Review these if you have specific reasons to track them)
+# Doxyfile # Only ignore if it's generated and not part of your source config
+# -        # This looks like a file named '-', likely temporary. Ignore it.
+
+# Operating System and Editor Specific Files
+.DS_Store          # macOS specific
+Thumbs.db          # Windows specific
+.vscode/           # VS Code settings (optional, useful if you have user-specific settings)
+*.sublime-project  # Sublime Text project files
+*.sublime-workspace # Sublime Text workspace files
+.idea/             # IntelliJ/WebStorm/PHPStorm project files
+
+# Log files
+*.log
+npm-debug.log*
+
+# Dependencies (if you use Node.js for frontend assets)
+node_modules/
+
+# Environment variables (if you use them for local config/secrets)
+.env
+.env.*
